@@ -391,11 +391,11 @@
 	"variable": [
 		{
 			"key": "ip",
-			"value": ""
+			"value": "192.168.1.100"
 		},
 		{
 			"key": "baseUrl",
-			"value": ""
+			"value": "http://{{ip}}/opencart/upload/index.php?route="
 		}
 	]
 }
